@@ -1,0 +1,32 @@
+#root {
+  box-sizing: border-box;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  /* text-align: center; */
+  background-color: bisque;
+}
+
+.photo_gallery img {
+  width: 100px;
+}
+.heading{
+  text-align: center;
+}
+.home_page {
+  /* text-align: center; */
+  /* background-color: red; */
+  padding: 30px ;
+  /* border-style: dashed; */
+}
+
+/* .greeting{
+  text-align: center;
+} */
+.instructions{
+  display: flex;
+  /* text-align: center; */
+}
+.instructions_heading{
+  text-align: center;
+}
